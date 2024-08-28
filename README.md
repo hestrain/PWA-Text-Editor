@@ -14,7 +14,7 @@
     <a href="https://github.com/hestrain/PWA-Text-Editor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pwa-kitties.onrender.com/">View App</a>
+    <a href="https://pwa-tbd.onrender.com/">View App</a>
   </p>
 </div>
 
@@ -76,14 +76,14 @@ This project was built using Webpack, Babel, and CodeMirror to create a progress
 ## Getting Started
 
 This app is fully functional and live at:
-https://pwa-kitties.onrender.com/
+https://pwa-tbd.onrender.com/
 
 If you would like to run the app locally, follow the below installation instructions
 
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/404pandas/pwa-kitties.git
+   git clone https://github.com/hestrain/PWA-Text-Editor.git
 
 <!-- USAGE EXAMPLES -->
 
@@ -119,7 +119,7 @@ Follow the prompts to complete the installation to operate this app offline!
 
 - [ ] Add front end
 
-See the [open issues](https://github.com/404pandas/pwa-kitties/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/hestrain/PWA-Text-Editor/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -150,11 +150,11 @@ See LICENSE.txt for more information.
 
 Mary Elenius - mary.panda.jackson@gmail.com
 
-Repo Link: [https://github.com/404pandas/pwa-kitties](https://github.com/404pandas/pwa-kitties)
-Live Link: [https://pwa-kitties.onrender.com/](https://pwa-kitties.onrender.com/)
+Repo Link: [https://github.com/hestrain/PWA-Text-Editor](https://github.com/hestrain/PWA-Text-Editor)
+Live Link: [https://pwa-tbd.onrender.com/](https://pwa-tbd.onrender.com/)
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
-I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+Thank you Mary our TA for helping our class out with this one so much!!!!
