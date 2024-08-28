@@ -148,7 +148,7 @@ See LICENSE.txt for more information.
 
 ## Contact
 
-Mary Elenius - mary.panda.jackson@gmail.com
+Email - [hestrain@gmail.com](mailto:hestrain@gmail.com)
 
 Repo Link: [https://github.com/hestrain/PWA-Text-Editor](https://github.com/hestrain/PWA-Text-Editor)
 Live Link: [https://pwa-tbd.onrender.com/](https://pwa-tbd.onrender.com/)
